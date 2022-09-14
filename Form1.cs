@@ -148,5 +148,10 @@ namespace Semana7_Proyecto_Login
 
             conn.Close();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

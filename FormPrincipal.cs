@@ -15,6 +15,7 @@ namespace Semana7_Proyecto_Login
         public FormPrincipal()
         {
             InitializeComponent();
+
         }
 
         private void btnRegresar_Click(object sender, EventArgs e)
